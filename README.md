@@ -113,4 +113,4 @@ This project is [MIT](./LICENSE) licensed.
 
 # Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you! Have fun building! 🚀
